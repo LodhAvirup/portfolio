@@ -1,2 +1,1 @@
-This is my portfolio website where my details are being shown along with my swocial media contact details
-
+This the protfolio website which is having my details like my projects and my social media websites details and also it is having a hireme button which is linked with a google sheet. So if any of the HR wants to hire me then they can click on the hire button and the detilas and job description they can fill in the google form. Also they can contact me through my contact section where my mailid and contact number is been provided.
